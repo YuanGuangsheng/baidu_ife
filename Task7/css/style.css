@@ -397,6 +397,7 @@ a{ text-decoration: none; color:#393a3a;}
 #footer form{
 	width:500px;
 	line-height:80px;
+    margin: 0 auto;
 	}
 #footer form input{
 	border:none;
